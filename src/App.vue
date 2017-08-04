@@ -212,7 +212,7 @@ li {
   height: 100%;
   .main-container {
     position: relative;
-    height: auto;
+    height: 100%;
     overflow: hidden;
     margin-left: 80px;
   }

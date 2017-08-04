@@ -57,7 +57,7 @@ export default {
     position: relative;
     text-align: center;
     width: 80px;
-    z-index: 999;
+    z-index: 9999;
     background: #20a0ff;
     .item {
         display: block;

@@ -34,7 +34,7 @@ export default {
     position: fixed;
     top: 0;
     width: 100%;
-    z-index: 99;
+    z-index: 999;
     .side-mask {
         background: rgba(0, 0, 0, 0.2) none repeat scroll 0 0;
         height: 100%;
